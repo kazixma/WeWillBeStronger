@@ -1,0 +1,24 @@
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes.dex : \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\helloworld\BuildConfig.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\helloworld\HelloWorld.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\helloworld\R$attr.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\helloworld\R$drawable.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\helloworld\R$string.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\helloworld\R$xml.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\helloworld\R.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\wws\BuildConfig.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\wws\HelloWorld.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\wws\R$attr.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\wws\R$drawable.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\wws\R$string.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\wws\R$xml.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\com\phonegap\wws\R.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\nl\xservices\plugins\accessor\AbstractCalendarAccessor$Attendee.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\nl\xservices\plugins\accessor\AbstractCalendarAccessor$Event.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\nl\xservices\plugins\accessor\AbstractCalendarAccessor$KeyIndex.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\nl\xservices\plugins\accessor\AbstractCalendarAccessor.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\nl\xservices\plugins\accessor\CalendarProviderAccessor.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\nl\xservices\plugins\accessor\LegacyCalendarAccessor.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\nl\xservices\plugins\Calendar.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen.class \
+C:\Users\Bestiize\Desktop\Exceed\realproject\platforms\android\ant-build\dexedLibs\classes-3e148abe87099e47eb9b1fa79f412b58.jar \
